@@ -1,0 +1,11 @@
+.card {
+    cursor: pointer;
+    margin-bottom: 10px;
+    animation: opacityLeft 1s ease-out;
+    background-color: #344e67;
+  }
+  .btn{
+    margin-bottom: 10px;
+    animation: opacityLeft 1s ease-out;
+  }
+ 
